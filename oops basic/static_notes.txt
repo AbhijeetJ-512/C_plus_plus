@@ -1,0 +1,5 @@
+## static data member is a c++ membere that is defined in a class
+
+## static data meber is defined outside a class a static keyword
+
+## A static data member in c++ decleared inside a class but outside the class using scope resolution operater
